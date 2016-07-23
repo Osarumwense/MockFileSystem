@@ -1,0 +1,14 @@
+Class name: Grep
+Parent clas: Command
+Subclasses:
+
+Responsibilities:
+* Returns all the lines in a specified file containing a certain REGEX passed
+in by the user.
+* Also returns all the lines in all files in in a user specified directory
+(including its subdirectories) that contain a certain REGEX passed in by the
+user.
+Collaborators:
+* Shell
+* File
+* Directory

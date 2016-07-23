@@ -1,0 +1,12 @@
+Class name: InvalidPathException
+Parent Classes: Exception
+Subclasses:
+
+Responsibilities:
+* An exception for when an invalid path is requested
+Collaborators:
+* ChangeDirectory
+* Ls
+* MakeDirectory
+* Pushd
+* Command

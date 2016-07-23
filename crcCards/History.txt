@@ -1,0 +1,13 @@
+Class name: History
+Parent Classes: Command
+Subclasses: 
+
+Responsibilities:
+* Keep an updated working track of all the inputs provided by the current user
+  in his/her current session of using the program, where inputs can be 
+  syntactically correct or syntactically incorrect.
+* Has ability to read only "x" most recent commands, where "x" is an integer
+  that is > 0.
+Collaborators:
+* Shell
+* Command

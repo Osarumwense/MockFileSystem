@@ -1,0 +1,9 @@
+What did I do last time?
+	- Completed the planning and design for the !number class/command
+	- Did a bit of planning for the ls command/class
+What do I plan to do now?
+	- Start and complete the !number class and functionality
+	- Update CRC cards for the !number class along with ls class
+
+Am I blocked on anything?
+	- No

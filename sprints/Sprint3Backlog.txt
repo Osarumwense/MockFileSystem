@@ -1,0 +1,21 @@
+User Stories we will implement in this Sprint
+a) As a user, I want to know all the parent directories of my current working
+directory.
+
+Specific tasks to be completed:
+a-1. (Directory) Finish pwd command.
+b. Add calls to methods that implement user commands into the shell
+c. Test all user commands thoroughly.
+
+The tasks are assigned as follows:
+User1: Jason Ku
+Tasks: a-1, c
+
+User2: Olivia Zhang
+Tasks: b, c
+
+User3: Radu Laudat
+Tasks: b, c
+
+User4: Osarumwense Ize-Iyamu
+Tasks: b, c

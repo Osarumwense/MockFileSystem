@@ -1,0 +1,14 @@
+Class name: InvalidSyntaxException
+Parent Classes: Exception
+Subclasses:
+
+Responsibilities:
+* An exception for when the syntax is not followed for a command
+Collaborators:
+* Command
+* ChangeDirectory
+* Echo
+* File
+* History
+* Ls
+* Pushd

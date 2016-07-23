@@ -1,0 +1,17 @@
+what did I do last time?
+	- Worked and discussed the necessary CRC cards that our group will move
+	forward with
+	- Started to plan the design and implementation prototype of commands that
+	are assigned to me
+
+What do I plan to do now?
+	- Finish the designs and possible implementation ideas for commands I am
+	responsible for
+	- Start writing the actual code and implement one or more commands that I
+	have been assigned for
+
+Am I blocked on anything?
+	- I need other commands to locate and find a file to get my commands to
+	work
+	- I also need a command that can navigate into a directory in order to
+	complete the functional purpose of my assigned responsibilities.

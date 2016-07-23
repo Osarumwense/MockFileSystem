@@ -1,0 +1,11 @@
+What did I work on last time?
+- I updated the CRC cards to contain a Grep class.
+- I finished adding the redirection functionality to the Cat command.
+- I also modified the Cat command to allow execution on valid files in the input
+list when there is an invalid file.
+
+What do I intend on working on ?
+- I plan to start code for the Grep command class.
+
+What am I currently blocked on?
+- Nothing for now.

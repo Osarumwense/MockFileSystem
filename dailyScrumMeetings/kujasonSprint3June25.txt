@@ -1,0 +1,9 @@
+What did I do last time?
+	- Completed pwd, mkdir, ls and cd commands
+
+What do I plan to do now?
+	- Fix any bugs found
+	- Work with the group for testing
+
+Am I blocked on anything?
+	- No

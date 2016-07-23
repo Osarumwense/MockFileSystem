@@ -1,0 +1,58 @@
+User Stories we will implement in this Sprint
+
+a) As a user I want to be able to execute a previously entered command.
+b) As a user I want to be able to move a file from its current location to a
+different file location, or directory.
+c) As a user I want to be able to move a directory from its current location to
+a different directory.
+d) As a user I want to be able to copy a directory with all the files inside to
+a new directory
+e) As a user I want to be able to copy a file from one directory to the other
+directory.
+f) As a user I want to be able to read the files from any directory that I want
+g) As a user I want to be able to print lines in files that contain a certain
+REGEX that I provide along with a certain PATH.
+h) As a user I want to be able to print lines from a given path that contain a
+REGEX that I provide along with the directory location printed followed by the
+file name, then a colon, and the line itself.
+i) As a user, I want to be able to input a path and be given the entire contents
+of that path, regardless of whether singular path sections represent files or
+directories.
+j) As a user, I want to be able to list the contents of my current working
+directory.
+k) As a user, I would like to be able to know all the subdirectories of my
+current working directory.
+l) As a user I would like to be able to redirect all output to a file.
+
+
+Specific tasks:
+a-1. (!number) Finish code to enable the command execute the previous command
+b-1. (Mv) Start design for the mv class.
+b-2. (Mv) Start basic code for the structure of the class.
+c-1. (Mv) Plan and start code to move directories.
+d-1. (Cp) Start basic code for the Cp class.
+e-1. (Cp) Implement code that copies files.
+f-1. (Ls) Start code to print contents of every directory or file present in a given path
+g-1. (Grep) design the Grep command class.
+g-2. (Grep) Start writing code for the Grep command class.
+h-1. (Grep) Write code in Grep to show the file name along with the line of the
+file that contains the REGEX.
+i-1. (Ls) Plan how to make ls recursive and start writing basic code for this functionality.
+i-2. (Ls) Write code to list contents of user's current working directory
+k-1. (Ls) Write code to show all subdirectories of a given directory
+l-1) Enable commands save output to files.
+m-1) Test all commands thoroughly to ensure they work properly
+
+
+The tasks are assigned as follows:
+User1: Jason Ku
+Tasks: a-1 f-1, k-1, i-1, l-1, m-1
+
+User2: Olivia Zhang
+Tasks: b-1, b-2, c-1, d-1, l-1, m-1.
+
+User3: Radu Laudat
+Tasks: l-1, m-1.
+
+User4: Osarumwense Ize-Iyamu 
+Taks: g-1, g-2, h-1, l-1, m-1.

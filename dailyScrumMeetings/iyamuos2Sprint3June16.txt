@@ -1,0 +1,13 @@
+what did I work on last time?
+- Started basic code for the Directory class: constructor and some others
+- Made a Helper function for the Cd command
+- Started implementation of the Tree design for the Directory class
+- Fixed bugs in Interpeter class.
+
+What do I plan on working on?
+- I intend on starting on the command popd
+- I intend on fininshing the cd command.
+- Create a method in Directory class to check for the existence of a file
+
+What am I currently stuck on?
+- I need to find the best way and place to set the current directory.

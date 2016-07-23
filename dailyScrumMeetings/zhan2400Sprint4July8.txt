@@ -1,0 +1,8 @@
+What did I do last time?
+   - Updated CRC cards for the new Cp and Mv classes
+
+What do I plan to do now?
+   - Start implementing the Mv class
+
+Am I blocked on anything?
+   - No, not at this point

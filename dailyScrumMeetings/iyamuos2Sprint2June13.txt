@@ -1,0 +1,14 @@
+what did I work on last time?
+- Helped design History class with group members
+- Changed CRC cards to include a Directory class as opposed to a Navigator class
+- Started and finished writing code for the Interpreter class
+- Redesigned the Directory class to possibly make use of a Tree Structure to
+represent the MOCK file system
+
+What do I plan to work on now?
+- I plan to start writing code for the Directory class
+- I plan to complete the pwd command I coudnt do the last Sprint
+
+What am I stuck on currently?
+- I need to find a way to import already made Java files into an eclipse project
+properly.

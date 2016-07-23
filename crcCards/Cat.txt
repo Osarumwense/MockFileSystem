@@ -1,0 +1,11 @@
+Class name: Cat
+Parent Classes: Command
+Subclasses:
+
+Responsibilities:
+* Retrieve a file's contents given location of the file from Command
+* Send the shell the contents to display
+Collaborators:
+* Command
+* Shell
+* File

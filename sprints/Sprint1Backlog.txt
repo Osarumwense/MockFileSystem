@@ -1,0 +1,48 @@
+//Sprint 1 Backlog
+June 8 - June 13
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I can close the program in order to end all operations when I am
+finished.
+b) As a user, I want to read the documentation of a user requested feature and
+the respective implementations and uses for a specific command line.
+c) As a user, I want to be able to create a single or several directories with
+separate names relative to the current directory in one single input.
+d) As a user, I want to know all the parent directories of my current working
+directory.
+e) As a user I can view all the previous commands I have entered in the order they
+were entered, as well as the syntactical errors I've typed. This way I easily
+know what commands I have entered, what I have done and in what order.
+f) As a user, I want to have a file, which only contains the string type I enter
+through standard input.
+
+Specific tasks to be accomplished:
+a-1. (Shell) Start and finish coding the exit command of the command line
+b-1. (CRC) Update CRC cards to contain a Manuals class.
+b-2. (Manuals) Start design of Manuals class.
+c-1. (Interpreter) Write basic code for the interpreter class.
+d-1. (CRC) Change CRC cards to include a Directory class instead of a Navigator
+class and shift some responsibilities from File Manager class o Directory
+d-2. (Directory) Write method in Directory class that prints the current
+directory's path on the shell when the user asks. Essentially the pwd command.
+e-1. (CRC) Update CRC cards to contain a History class.
+e-2. (History) Design History class using a list to store all commands the shell
+receives from the user
+e-3. (History) Start code to implement the History class.
+f-1. (CRC) Create CRC card for File class
+f-2. (CRC) Update design of other CRC cards to include File class.
+f-3. (File) Design file class and start basic implementation of code for it
+
+
+These tasks are assigned as follows:
+User1: Jason Ku
+Tasks: a-1, b-2, e-2, e-3
+
+User2: Olivia Zhan
+Tasks: b-1, f-2, f-3
+
+User3: Radu Laudat
+Tasks:  e-1, f-1, f-3,
+
+User4: Osarumwense Ize-Iyamu
+Tasks: c-1, d-1, d-2, e-2

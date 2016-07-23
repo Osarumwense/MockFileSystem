@@ -1,0 +1,12 @@
+what did I do last time?
+	- Implemented Shell class to interact with interpreter when a command is
+	received
+	- Fixed Shell bugs to work with current implementations
+	- Started the Manual class, hope to finish very soon
+
+What do I plan to do now?
+	- Complete the Manual class completely 
+	- Implement the Manual class to work with the Shell class
+
+Am I blocked on anything?
+	- Not as of now

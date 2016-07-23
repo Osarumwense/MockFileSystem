@@ -1,0 +1,11 @@
+What did I work on last time?
+- I made changes to the Cat command to take into consideration the redirection
+that the user may possibly want to use.
+
+What do I intend on working on?
+- Create a CRC card for the Grep command
+- Update Cat CRC card to reflect the redirection implementation
+- Start writing code for the Grep class
+
+What am I currently blocked on?
+- nothing for now.

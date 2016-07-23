@@ -1,0 +1,13 @@
+a) What did I work on last time?
+	- Discussed the project design with other team members.
+	- Edited and finialized the design of CRCards.
+	- Started working on the echo commands
+
+b) What do I plan to work on now?
+	- Finish the echo commands
+	- start to work on man commnad
+
+c) Am I blocked on anything?
+	- I need a method to create a new file for me if the user's  input file 
+	  does not exist when they are using echo commands
+

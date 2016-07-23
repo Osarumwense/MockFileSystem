@@ -1,0 +1,10 @@
+Class name: Pushd
+Parent Classes: Command
+Subclasses:
+
+Responsibilities:
+* Push a directory onto the stack and store it
+Collaborators:
+* Shell
+* DirectoryStack
+* Command

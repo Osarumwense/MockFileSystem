@@ -1,0 +1,15 @@
+Class name: directoryStack
+Parent Classes: 
+Subclasses: 
+
+Responsibilities:
+* Follow the LIFO principle of a stack to store and retrieve directories.
+* Receive and hold directories when the pushd command is entered
+* Return and change to the directory that has been received most recently when
+  requested
+* Hold the paths of the directories when pushed onto the stack
+Collaborators:
+* Directory 
+* Popd
+* Pushd
+* Shell

@@ -1,0 +1,12 @@
+what did I do last time?
+	- Completed most of the Shell class code, except it cannot take more than
+	one command consecutively
+	- Finished the history class where the history of inputs are stored
+
+What do I plan to do now?
+	- Find and debug the reason as to why the Shell does not work as wanted
+	- Start and design the Manual class
+
+Am I blocked on anything?
+	- I need the interpreter class to be working in order to completely
+	finish the Shell class

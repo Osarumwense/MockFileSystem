@@ -1,0 +1,16 @@
+What did I do last time?
+
+  - finalized all the details regarding our current implementation and design of
+    the Shell class and Directory class prior to the meeting with the TA on  
+    June 22nd.
+  - added several calls to command methods in different classes in the Shell  
+    class in order for Shell to be able to call the appropriate methods once
+    it receives ArrayList format information back from the interpreter.
+
+What do I plan to do now?
+  -  Make all adjustments to the code based on the advice from the TA,  
+     including separating all commands into different classes.
+  - start the testing phase of the project (i.e the objective of Sprint 3)
+
+Am I blocked on anything?
+  -  No, not right now.

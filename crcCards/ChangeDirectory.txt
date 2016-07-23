@@ -1,0 +1,10 @@
+Class name: Cd
+Parent Classes: Command
+Subclasses:
+
+Responsibilities:
+* Change directory to the path given by Command class
+Collaborators:
+* Shell
+* Directory
+* Command

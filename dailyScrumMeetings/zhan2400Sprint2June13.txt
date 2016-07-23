@@ -1,0 +1,10 @@
+a) What did I work on last time?
+	- Edited and finialized the design of CRCards.
+	- Almost done the echo commands
+
+b) What do I plan to work on now?
+	- Finish the echo commands
+	- start the comment and documentation on the echo commands
+
+c) Am I blocked on anything?
+	- I need to come up with a implementaton with manual command

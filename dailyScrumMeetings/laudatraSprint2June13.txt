@@ -1,0 +1,17 @@
+What did I do last time?
+  - worked on finalizing the printing of the current working directory in 
+collaboration with another teammate.
+  - reworked my sprint 1 tasks, which now consist of making CRC cards for a 
+slightly different reworking on our design and designing/implementing the File
+class  
+
+What do I plan to do now? 
+  - Finish up all of my sprint 1 tasks, including the complete implementation of the
+File class.
+- Update/create all necessary CRC cards if design requirements need be. 
+
+Am I blocked on anything?
+- I'm stuck trying to choose which design would be best for the implementation of
+the File class; the nested ArrayList storage method, or the large entirely contained
+ArrayList with all files placed in the array with an untraditional form of 
+organization, which may help with efficiency. 

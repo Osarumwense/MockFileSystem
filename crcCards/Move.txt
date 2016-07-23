@@ -1,0 +1,11 @@
+Class name: Mv
+Parent Classes: Command
+Subclasses: N/A
+
+Responsibilities:
+* Move a directory or file to another directory. 
+Collaborators:
+* Shell
+* File
+* Directory
+* Command

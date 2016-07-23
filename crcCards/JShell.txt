@@ -1,0 +1,8 @@
+Class name: JShell
+Parent Classes: 
+Subclasses:
+
+Responsibilities:
+* Runs the program, contains main code
+Collaborators:
+* Shell

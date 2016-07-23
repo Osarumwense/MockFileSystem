@@ -1,0 +1,13 @@
+Class name: Echo
+Parent Classes: Command
+Subclasses:
+
+Responsibilities:
+* Create or append contents to a file given location from Command class
+* Collaborating with directory, check if the directory exists
+* Output to shell if the command given requests
+Collaborators:
+* Shell
+* Command
+* Directory
+* File

@@ -1,0 +1,11 @@
+What did I do last time?
+  - Finished the basic case for mv command
+  - Finished 4 helper functions in directory and file classes
+
+What do I plan to do now?
+  - Finish up the mv command code
+  - Start cp command
+  
+Am I blocked on anything?
+  - No, not right now. 
+

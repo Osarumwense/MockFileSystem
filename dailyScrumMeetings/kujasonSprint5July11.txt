@@ -1,0 +1,8 @@
+What did I do last time?
+	- Completed the Number class and functionality
+	- Completed LS support for -r and -R
+What do I plan to do now?
+	- Do testing for LS -r and -R along with testing for Number class
+
+Am I blocked on anything?
+	- No

@@ -1,0 +1,13 @@
+What did I do last time?
+
+  - Discussed the adjustments with my teammates based on the advices that TA
+provide us 
+  - Finished the testing for File class, History class, and Interpreter class
+with my partner. 
+
+What do I plan to do now?
+  - Finish the rest of the testing with my teammates
+  - Help my teammates debug after testing 
+
+Am I blocked on anything?
+  -  No, not right now.

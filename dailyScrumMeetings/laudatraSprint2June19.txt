@@ -1,0 +1,15 @@
+What did I do last time? 
+  - implemented file overwriting and file appending methods in the File class
+    after coming to an agreement across the group on a final design for the
+    File class
+  - implemented a make directory method in the Directory class
+  - wrote a new class (directoryStack) and accompanying CRC card for the 
+    directoryStack class in order to implement the pushd command
+
+What do I plan to do now?
+  - write code for appropriate command calls in the Shell class 
+  - begin planning for the testing phase of the project, which will be the 
+    final sprint
+
+Am I blocked on anything?
+  - No, not at the moment

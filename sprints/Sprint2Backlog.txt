@@ -1,0 +1,62 @@
+User stories from product backlog that we will address in this Sprint
+a) As a user, I want to read the documentation of a user requested feature and
+the respective implementations and uses for a specific command line.
+b) As a user, I want to be able to create a single or several directories with
+separate names relative to the current directory in one single input.
+c) As a user, I want to know all the parent directories of my current working
+directory.
+d) As a user, I want to have a file, which only contains the string type I enter
+through standard input.
+e) As a functional user of the program, I want to append the input string at the
+end of my indicated file.
+f) As a user, I want to be able to see all of the contents (files and directories)
+relative to the current directory or when inputting a directory path
+g) As a user, I may also want to be able to check whether a directory exists or not
+by calling a command to see if an error is raised
+h) As a user, I want to be able to view the contents of a single or several files
+directly in the shell when given the location of the file(s)
+i) As a user, I want to be able to obtain the name of the current directory I am
+operating within.
+j) As a user, if I add a new directory to the repository and switch into that as
+my current working directory, I must have the ability to switch back into the
+directory I was just in prior to the addition of a new directory.
+k )As a user, I want to be able to be able to change directories freely. I want
+to be able to move anywhere respective to my current directory or the path I
+am currently located in.
+l) As a user I can go back into my previous directory without having to type in the
+path so as to make moving around directories easier and faster.
+m) As a user, I want to be able to add a new directory to the repository and make
+that new directory the one I am currently working in.
+
+Specific tasks to be completed:
+a-1. (Manual) Start and possibly complete Manual class along with MAN command.
+b-1. (Directory) Write code for Mkdir command as a method in Directories class
+c-1. (Directory) Write code for pwd comand as a method in Directories class
+d-1. (File) Write code for echo command in File class that overwrites file.
+d-2. (FIle) Write basic code for File constructor
+e-1. (File) Write code in File class that allows user append new String to file.
+f-1. (File) Write code for the ls command that displays file contents to Shell.
+g-1. (Directory) Write code for an Exception class to be raised when a specified
+directory or File doesnt exist.
+h-1. (File) Write code for the Cat command in the File class
+i-1. (Shell) Write code to always display the current directory name in the Shell
+i-2. (Shell) Write code that calls on other methods from other classes in Shell
+according to commands entered by user
+j-1. (Directory) Write code for the popd command as a method in Directory.
+k-1. (Directory) Write code for the Cd command as a method in Directory.
+l-1. (Directory) Write code that allows ".." to be passed in as a parameter for Cd
+m-1. (Directory) Write code for pushd command as a method in Directory
+
+
+The tasks are assigned as follows:
+User1: Jason Ku
+Tasks: a-1, h-1, i-1, i-2
+
+User2: Olivia Zhang
+Tasks: d-2, c-1, f-1, g-1
+
+User3: Radu Laudat
+Tasks: d-1, e-1, b-1, m-1
+
+User4: Osarumwense Ize-Iyamu
+Tasks: b-1, k-1, l-1, j-1

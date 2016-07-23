@@ -1,0 +1,10 @@
+Class name: Pwd
+Parent Classes: Command
+Subclasses:
+
+Responsibilities:
+* Get the current working directory to display on Shell when requested from
+  command class
+Collaborators:
+* Shell
+* Command

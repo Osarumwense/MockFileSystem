@@ -1,0 +1,11 @@
+What did I do last time?
+	- Implemented a few commands into the Shell file
+	- Fixed errors in the history class
+	- Fixed errors in directory class
+
+What do I plan to do now?
+	- Work with the group to wrap up Shell 
+	- Work with the group for testing
+
+Am I blocked on anything?
+	- No

@@ -1,0 +1,11 @@
+Class name: Interpreter
+Parent Classes:
+Subclasses:
+
+Responsibilities:
+* Receive raw user input from Shell
+* Raise error/exception to send to Shell if the given command is not recognized
+* Send the Command information to route information to other classes to execute
+Collaborators:
+* Shell
+* Command

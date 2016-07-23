@@ -1,0 +1,11 @@
+Class name: Cp
+Parent Classes: Command
+Subclasses: N/A
+
+Responsibilities:
+* Copy a directory or file to another directory. 
+Collaborators:
+* Shell
+* File
+* Directory
+* Command

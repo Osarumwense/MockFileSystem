@@ -1,0 +1,10 @@
+Class name: InvalidFileNameException
+Parent Classes: Exception
+Subclasses:
+
+Responsibilities:
+* An exception for when an file name is given
+Collaborators:
+* Cat
+* Ls
+* Command

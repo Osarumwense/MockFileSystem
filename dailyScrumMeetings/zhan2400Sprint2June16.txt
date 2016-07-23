@@ -1,0 +1,15 @@
+What did I do last time? 
+  - Implemented the entire File class with one of my teammates. 
+  - We changed the some of the implmentation of File class later since we
+figure out a better solution
+  - Make a tiny change of the File crcCards
+
+What do I plan to do now?
+  - After some design changes, my partner and I have to redo some of the
+methods under file class
+  - Start working on ls and pwd commands
+
+Am I blocked on anything?
+- The whole team spent a huge amount of time to discuss the design of shell,
+interpreter and File class 
+- My partner and I have to change the File class after the group discussion.

@@ -1,0 +1,10 @@
+Class name: number
+Parent Classes: Command
+Subclasses:
+
+Responsibilities:
+* Retrieves the n'th input given by the user in the shell
+Collaborators:
+* Command
+* Shell
+* History

@@ -1,0 +1,11 @@
+What did I work on last time?
+- Wrote out complete Pseudocode for the Grep command
+- Fixed a bug in Echo that created a new file with the full path name
+
+What do I plan on working on?
+- I intend on finishing the Grep command.
+- I also intend on writing test cases for the command.
+
+what am I currently stuck on?
+- I do not know whether to match the whole line in a file with the given REGEX
+in Grep or to match the words in it word by word.

@@ -1,0 +1,11 @@
+what did I work on last time?
+- Redesigned the File class, and implemented the code for it
+- Started and completed code for the cat command in the file class
+- Started and completed The echo command in the file class that allows the user
+both append to the file and overwrite the file.
+
+What do I plan on working on ?
+- I plan to start working on test cases for the File and Interpreter class
+
+What am I currently stuck on ?
+- Nothing for now.s

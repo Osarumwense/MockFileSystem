@@ -1,0 +1,12 @@
+Class name: Man
+Parent Classes: Command
+Subclasses:
+
+Responsibilities:
+* Store all the documentation for every valid command
+* Retrieve all the documentation for the indicated command
+* Send the shell information to display
+* Retrieve request from COmmand class
+Collaborators:
+* Shell
+* Command

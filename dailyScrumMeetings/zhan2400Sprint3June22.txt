@@ -1,0 +1,15 @@
+What did I do last time?
+  - discussed and finalized all the program design regarding the details
+of the Directory class and File class before the demo demonstration with 
+our TA.
+
+What do I plan to do now?
+  - create a class for each command
+  - adjust the small details inside the current methods,for example return 
+a string to the shell instead of printing the message directory under the
+class method
+  - start the final stage of the assignment which is testing
+
+Am I blocked on anything?
+  - No, not at this point
+

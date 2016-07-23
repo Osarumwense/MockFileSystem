@@ -1,0 +1,12 @@
+What did I do last time?
+  - Finished up Curl class entirely, and made sure all the boundary cases were
+    were working as they should.
+  - Added a few methods and exception names to list of appropriate exceptions 
+    that can be caught.
+
+What do I plan to do now?
+  - Begin the formal test cases for my Curl command.
+  - Inspect all commands for bugs and make sure they all save in Files
+
+Am I blocked on anything right now?
+  - No, not at the moment. 

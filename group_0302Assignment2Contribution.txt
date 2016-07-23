@@ -1,0 +1,1078 @@
++++ASSIGNMENT2 TEAM MEMBER CONTRIBUTION+++
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT1+++
+A    Assignment2/productBacklog
+A    Assignment2/productBacklog/productBacklogFor2A.txt
+A    Assignment2/productBacklog/readMeProductBacklog.txt
+A    Assignment2/crcCards
+A    Assignment2/crcCards/JShell.txt
+A    Assignment2/crcCards/InvalidPathException.txt
+A    Assignment2/crcCards/Pushd.txt
+A    Assignment2/crcCards/Cd.txt
+A    Assignment2/crcCards/Pwd.txt
+A    Assignment2/crcCards/directoryStack.txt
+A    Assignment2/crcCards/InvalidHistoryNumberException.txt
+A    Assignment2/crcCards/History.txt
+A    Assignment2/crcCards/Popd.txt
+A    Assignment2/crcCards/Interpreter.txt
+A    Assignment2/crcCards/Directory.txt
+A    Assignment2/crcCards/InvalidCommandException.txt
+A    Assignment2/crcCards/NoParentException.txt
+A    Assignment2/crcCards/Mkdir.txt
+A    Assignment2/crcCards/InvalidFileNameException.txt
+A    Assignment2/crcCards/Shell.txt
+A    Assignment2/crcCards/Cat.txt
+A    Assignment2/crcCards/readMeForCrcCards.txt
+A    Assignment2/crcCards/Man.txt
+A    Assignment2/crcCards/InvalidSyntaxException.txt
+A    Assignment2/crcCards/Echo.txt
+A    Assignment2/crcCards/Ls.txt
+A    Assignment2/crcCards/Command.txt
+A    Assignment2/crcCards/File.txt
+A    Assignment2/readMeAssignment2A.txt
+A    Assignment2/src
+A    Assignment2/src/test
+A    Assignment2/src/test/EchoTest.java
+A    Assignment2/src/test/LsTest.java
+A    Assignment2/src/test/FileTest.java
+A    Assignment2/src/test/HistoryTest.java
+A    Assignment2/src/test/PopdTest.java
+A    Assignment2/src/test/InterpreterTest.java
+A    Assignment2/src/test/PushdTest.java
+A    Assignment2/src/test/DirectoryTest.java
+A    Assignment2/src/test/CdTest.java
+A    Assignment2/src/test/MkdirTest.java
+A    Assignment2/src/test/CatTest.java
+A    Assignment2/src/test/ShellTest.java
+A    Assignment2/src/test/PwdTest.java
+A    Assignment2/src/test/directoryStackTest.java
+A    Assignment2/src/test/ManTest.java
+A    Assignment2/src/driver
+A    Assignment2/src/driver/Man.java
+A    Assignment2/src/driver/InvalidSyntaxException.java
+A    Assignment2/src/driver/Command.java
+A    Assignment2/src/driver/Echo.java
+A    Assignment2/src/driver/Ls.java
+A    Assignment2/src/driver/File.java
+A    Assignment2/src/driver/JShell.java
+A    Assignment2/src/driver/InvalidPathException.java
+A    Assignment2/src/driver/Pushd.java
+A    Assignment2/src/driver/Cd.java
+A    Assignment2/src/driver/Pwd.java
+A    Assignment2/src/driver/directoryStack.java
+A    Assignment2/src/driver/InvalidHistoryNumberException.java
+A    Assignment2/src/driver/History.java
+A    Assignment2/src/driver/Popd.java
+A    Assignment2/src/driver/Interpreter.java
+A    Assignment2/src/driver/Directory.java
+A    Assignment2/src/driver/InvalidCommandException.java
+A    Assignment2/src/driver/NoParentException.java
+A    Assignment2/src/driver/Mkdir.java
+A    Assignment2/src/driver/InvalidFileNameException.java
+A    Assignment2/src/driver/Shell.java
+A    Assignment2/src/driver/Cat.java
+A    Assignment2/dailyScrumMeetings
+A    Assignment2/dailyScrumMeetings/laudatraSprint3June25.txt
+A    Assignment2/dailyScrumMeetings/zhan2400Sprint1June10.txt
+A    Assignment2/dailyScrumMeetings/laudatraSprint2June19.txt
+A    Assignment2/dailyScrumMeetings/iyamuos2Sprint1June10.txt
+A    Assignment2/dailyScrumMeetings/zhan2400Sprint2June13.txt
+A    Assignment2/dailyScrumMeetings/kujasonSprint1June10.txt
+A    Assignment2/dailyScrumMeetings/zhan2400Sprint3June22.txt
+A    Assignment2/dailyScrumMeetings/iyamuos2Sprint2June13.txt
+A    Assignment2/dailyScrumMeetings/iyamuos2Sprint3June25th.txt
+A    Assignment2/dailyScrumMeetings/zhan2400Sprint2June16.txt
+A    Assignment2/dailyScrumMeetings/iyamuos2Sprint3June22.txt
+A    Assignment2/dailyScrumMeetings/kujasonSprint2June13.txt
+A    Assignment2/dailyScrumMeetings/kujasonSprint3June22.txt
+A    Assignment2/dailyScrumMeetings/iyamuos2Sprint3June16.txt
+A    Assignment2/dailyScrumMeetings/zhan2400Sprint2June19.txt
+A    Assignment2/dailyScrumMeetings/kujasonSprint2June16.txt
+A    Assignment2/dailyScrumMeetings/kujasonSprint3June25.txt
+A    Assignment2/dailyScrumMeetings/iyamuos2Sprint2June19.txt
+A    Assignment2/dailyScrumMeetings/readMeDailyScrumMeetings.txt
+A    Assignment2/dailyScrumMeetings/kujasonSprint2June19.txt
+A    Assignment2/dailyScrumMeetings/zhan2400SprintJune25.txt
+A    Assignment2/dailyScrumMeetings/laudatraSprint1June10.txt
+A    Assignment2/dailyScrumMeetings/laudatraSprint2June13.txt
+A    Assignment2/dailyScrumMeetings/laudatraSprint3June22.txt
+A    Assignment2/dailyScrumMeetings/laudatraSprint2June16.txt
+A    Assignment2/sprints
+A    Assignment2/sprints/readMeSprints.txt
+A    Assignment2/sprints/Sprint1Backlog.txt
+A    Assignment2/sprints/Sprint2Backlog.txt
+A    Assignment2/sprints/Sprint3Backlog.txt
+Checked out revision 220.
+
+
+
+PART 2) +++SVN COMMIT LOGS ARE+++
+Marks Deductions here (-.5 max): 
+------------------------------------------------------------------------
+r220 | kujason@UTORONTO.CA | 2016-06-27 23:54:00 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Added author signatures for the following files
+------------------------------------------------------------------------
+r219 | iyamuos2@UTORONTO.CA | 2016-06-27 23:42:40 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Formatted documents to follow Google style
+------------------------------------------------------------------------
+r218 | kujason@UTORONTO.CA | 2016-06-27 23:40:48 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Fixed error
+------------------------------------------------------------------------
+r217 | iyamuos2@UTORONTO.CA | 2016-06-27 23:33:58 -0400 (Mon, 27 Jun 2016) | 2 lines
+
+Fixed bug in Shell that stopped Ls from working
+Fixed bugs in EchoTest class
+------------------------------------------------------------------------
+r216 | iyamuos2@UTORONTO.CA | 2016-06-27 23:24:40 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Fixed a major bug in echo that didnt require quotes for input
+------------------------------------------------------------------------
+r215 | kujason@UTORONTO.CA | 2016-06-27 20:12:47 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Fixed test errors in the following files
+------------------------------------------------------------------------
+r214 | laudatra@UTORONTO.CA | 2016-06-27 20:06:14 -0400 (Mon, 27 Jun 2016) | 1 line
+
+corrected some errors in the ShellTest class javadoc descriptions.
+------------------------------------------------------------------------
+r213 | laudatra@UTORONTO.CA | 2016-06-27 20:05:16 -0400 (Mon, 27 Jun 2016) | 1 line
+
+corrected some errors in the EchoTest test method names. 
+------------------------------------------------------------------------
+r212 | laudatra@UTORONTO.CA | 2016-06-27 20:01:56 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the EchoTest class javadoc descriptions.
+------------------------------------------------------------------------
+r211 | laudatra@UTORONTO.CA | 2016-06-27 20:01:31 -0400 (Mon, 27 Jun 2016) | 1 line
+
+
+------------------------------------------------------------------------
+r210 | laudatra@UTORONTO.CA | 2016-06-27 19:53:05 -0400 (Mon, 27 Jun 2016) | 1 line
+
+corrected some errors in the PushdTest class javadoc descriptions.
+------------------------------------------------------------------------
+r209 | laudatra@UTORONTO.CA | 2016-06-27 19:50:59 -0400 (Mon, 27 Jun 2016) | 1 line
+
+corrected some errors in the PopdTest class javadoc descriptions.
+------------------------------------------------------------------------
+r208 | laudatra@UTORONTO.CA | 2016-06-27 19:48:27 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the MkdirTest class javadoc descriptions.
+------------------------------------------------------------------------
+r207 | laudatra@UTORONTO.CA | 2016-06-27 19:47:17 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the ManTest class javadoc descriptions.
+------------------------------------------------------------------------
+r206 | laudatra@UTORONTO.CA | 2016-06-27 19:44:28 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the LsTest class javadoc descriptions.
+------------------------------------------------------------------------
+r205 | iyamuos2@UTORONTO.CA | 2016-06-27 19:43:36 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Completed the test file for Shell class
+------------------------------------------------------------------------
+r204 | laudatra@UTORONTO.CA | 2016-06-27 19:38:23 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the HistoryTest class javadoc descriptions.
+------------------------------------------------------------------------
+r203 | laudatra@UTORONTO.CA | 2016-06-27 19:35:38 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the HistoryTest class javadoc descriptions.
+------------------------------------------------------------------------
+r202 | laudatra@UTORONTO.CA | 2016-06-27 19:27:41 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the FileTest class javadoc descriptions.
+------------------------------------------------------------------------
+r201 | laudatra@UTORONTO.CA | 2016-06-27 19:27:02 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the EchoTest class javadoc descriptions.
+------------------------------------------------------------------------
+r200 | laudatra@UTORONTO.CA | 2016-06-27 19:25:41 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the directoryStackTest class javadoc descriptions.
+------------------------------------------------------------------------
+r199 | laudatra@UTORONTO.CA | 2016-06-27 19:24:46 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the CdTest class javadoc descriptions.
+------------------------------------------------------------------------
+r198 | laudatra@UTORONTO.CA | 2016-06-27 19:24:14 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the CatTest class javadoc descriptions.
+------------------------------------------------------------------------
+r197 | laudatra@UTORONTO.CA | 2016-06-27 19:11:11 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the CdTest class javadoc descriptions.
+------------------------------------------------------------------------
+r196 | zhan2400@UTORONTO.CA | 2016-06-27 19:06:47 -0400 (Mon, 27 Jun 2016) | 1 line
+
+edited the javadoc for the CdTest.java
+------------------------------------------------------------------------
+r195 | kujason@UTORONTO.CA | 2016-06-27 18:57:35 -0400 (Mon, 27 Jun 2016) | 1 line
+
+JUnit test for the Directory class
+------------------------------------------------------------------------
+r194 | laudatra@UTORONTO.CA | 2016-06-27 18:52:45 -0400 (Mon, 27 Jun 2016) | 1 line
+
+correct some errors in the CatTest class javadoc descriptions.
+------------------------------------------------------------------------
+r193 | zhan2400@UTORONTO.CA | 2016-06-27 18:34:08 -0400 (Mon, 27 Jun 2016) | 2 lines
+
+edited javadoc for pushTest.java
+
+------------------------------------------------------------------------
+r192 | zhan2400@UTORONTO.CA | 2016-06-27 18:32:42 -0400 (Mon, 27 Jun 2016) | 1 line
+
+changed the javadoc for CdTest.java
+------------------------------------------------------------------------
+r191 | zhan2400@UTORONTO.CA | 2016-06-27 18:28:28 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added Javadoc for the PushedTest.java file
+------------------------------------------------------------------------
+r190 | zhan2400@UTORONTO.CA | 2016-06-27 18:26:42 -0400 (Mon, 27 Jun 2016) | 1 line
+
+adjusted the format and changed the typo of the documentation for cat, cd, history, man, mkdir, pwd test files
+------------------------------------------------------------------------
+r189 | laudatra@UTORONTO.CA | 2016-06-27 18:24:44 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added javadoc to the FileTest class header 
+------------------------------------------------------------------------
+r188 | zhan2400@UTORONTO.CA | 2016-06-27 18:21:50 -0400 (Mon, 27 Jun 2016) | 1 line
+
+fixed the author name typo
+------------------------------------------------------------------------
+r187 | zhan2400@UTORONTO.CA | 2016-06-27 18:21:08 -0400 (Mon, 27 Jun 2016) | 1 line
+
+fixed the javadoc for the interpreterTest class
+------------------------------------------------------------------------
+r186 | laudatra@UTORONTO.CA | 2016-06-27 18:20:25 -0400 (Mon, 27 Jun 2016) | 2 lines
+
+fixed some errors in the Javadoc
+
+------------------------------------------------------------------------
+r185 | zhan2400@UTORONTO.CA | 2016-06-27 18:18:35 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added javadoc for PwdTest.java
+------------------------------------------------------------------------
+r184 | laudatra@UTORONTO.CA | 2016-06-27 18:17:43 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added javadoc to the directoryStacktest class
+------------------------------------------------------------------------
+r183 | zhan2400@UTORONTO.CA | 2016-06-27 18:16:38 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added javadoc for MkdirTest.java 
+------------------------------------------------------------------------
+r182 | zhan2400@UTORONTO.CA | 2016-06-27 18:14:23 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added javadoc for the ManTest.java file
+------------------------------------------------------------------------
+r181 | zhan2400@UTORONTO.CA | 2016-06-27 18:06:11 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added javadoc for LsTest.java
+------------------------------------------------------------------------
+r180 | laudatra@UTORONTO.CA | 2016-06-27 18:00:41 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added Javadoc to EchoTest
+------------------------------------------------------------------------
+r179 | zhan2400@UTORONTO.CA | 2016-06-27 18:00:09 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added javadoc for CdTest
+------------------------------------------------------------------------
+r178 | zhan2400@UTORONTO.CA | 2016-06-27 17:56:40 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added javadoc for CatTest
+------------------------------------------------------------------------
+r177 | kujason@UTORONTO.CA | 2016-06-27 17:28:18 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Added crcCards for the exception classes
+------------------------------------------------------------------------
+r176 | zhan2400@UTORONTO.CA | 2016-06-27 17:15:20 -0400 (Mon, 27 Jun 2016) | 2 lines
+
+added javadoc for CdTest.java
+
+------------------------------------------------------------------------
+r175 | zhan2400@UTORONTO.CA | 2016-06-27 17:13:53 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added javadoc for CatTest.java
+------------------------------------------------------------------------
+r174 | iyamuos2@UTORONTO.CA | 2016-06-27 17:07:36 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Finished test cases/test file for the Popd command.
+------------------------------------------------------------------------
+r173 | zhan2400@UTORONTO.CA | 2016-06-27 16:58:46 -0400 (Mon, 27 Jun 2016) | 2 lines
+
+added throws on the testExecute for popedTest.java
+
+------------------------------------------------------------------------
+r172 | kujason@UTORONTO.CA | 2016-06-27 16:36:32 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Updated CrcCards
+------------------------------------------------------------------------
+r171 | kujason@UTORONTO.CA | 2016-06-27 15:11:12 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Implemented the new exceptions in the test cases
+------------------------------------------------------------------------
+r170 | kujason@UTORONTO.CA | 2016-06-27 15:08:00 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Test cases for interpreter
+------------------------------------------------------------------------
+r169 | kujason@UTORONTO.CA | 2016-06-27 14:43:56 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Added new exception classes and implemented them. Also fixed formatting
+------------------------------------------------------------------------
+r168 | iyamuos2@UTORONTO.CA | 2016-06-27 12:58:09 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Added the PopdTest.java
+------------------------------------------------------------------------
+r167 | kujason@UTORONTO.CA | 2016-06-27 12:21:23 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Fixed an error where pushd crashes if no arguments are given
+------------------------------------------------------------------------
+r166 | kujason@UTORONTO.CA | 2016-06-27 12:07:18 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Changed the instance variables to private from public
+------------------------------------------------------------------------
+r165 | kujason@UTORONTO.CA | 2016-06-27 11:56:57 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Formatted all java files in driver
+------------------------------------------------------------------------
+r164 | kujason@UTORONTO.CA | 2016-06-27 11:44:46 -0400 (Mon, 27 Jun 2016) | 1 line
+
+The path output on the Shell now is correct and does not include a . if it is in a path
+------------------------------------------------------------------------
+r163 | iyamuos2@UTORONTO.CA | 2016-06-27 11:11:54 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Fixed another bug in echo that created a new file when it should append
+------------------------------------------------------------------------
+r162 | kujason@UTORONTO.CA | 2016-06-27 10:47:16 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Added support for the "." path
+------------------------------------------------------------------------
+r161 | kujason@UTORONTO.CA | 2016-06-27 10:31:50 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Added a new line when ls is called on a relative path
+------------------------------------------------------------------------
+r160 | kujason@UTORONTO.CA | 2016-06-27 10:28:15 -0400 (Mon, 27 Jun 2016) | 1 line
+
+mkdir command now satisfies the syntax givne on the handout
+------------------------------------------------------------------------
+r159 | iyamuos2@UTORONTO.CA | 2016-06-27 01:39:46 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Added documentations for any methods in classes that were lacking
+------------------------------------------------------------------------
+r158 | laudatra@UTORONTO.CA | 2016-06-27 01:31:14 -0400 (Mon, 27 Jun 2016) | 1 line
+
+fixed access modifier on direcStack
+------------------------------------------------------------------------
+r157 | zhan2400@UTORONTO.CA | 2016-06-27 01:29:52 -0400 (Mon, 27 Jun 2016) | 2 lines
+
+added test cases for Ls class
+
+------------------------------------------------------------------------
+r156 | laudatra@UTORONTO.CA | 2016-06-27 01:21:11 -0400 (Mon, 27 Jun 2016) | 2 lines
+
+added a single test case for the Pushd command
+
+------------------------------------------------------------------------
+r155 | zhan2400@UTORONTO.CA | 2016-06-27 01:18:05 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added test case for Cd class
+------------------------------------------------------------------------
+r154 | laudatra@UTORONTO.CA | 2016-06-27 01:09:21 -0400 (Mon, 27 Jun 2016) | 3 lines
+
+fixed a naming error
+
+
+------------------------------------------------------------------------
+r153 | laudatra@UTORONTO.CA | 2016-06-27 00:57:53 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added my test cases for the directoryStack class
+------------------------------------------------------------------------
+r152 | zhan2400@UTORONTO.CA | 2016-06-27 00:35:48 -0400 (Mon, 27 Jun 2016) | 2 lines
+
+added test cases for Mkdir class
+
+------------------------------------------------------------------------
+r151 | iyamuos2@UTORONTO.CA | 2016-06-27 00:30:53 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Fixed bugs in Echo that did not allow for a String with spaces to be echo'd. Also added output statements to the File class to be returned when a File operation is done
+------------------------------------------------------------------------
+r150 | zhan2400@UTORONTO.CA | 2016-06-26 23:55:05 -0400 (Sun, 26 Jun 2016) | 2 lines
+
+format the file
+
+------------------------------------------------------------------------
+r149 | zhan2400@UTORONTO.CA | 2016-06-26 23:32:53 -0400 (Sun, 26 Jun 2016) | 2 lines
+
+added test cases for Pwd class
+
+------------------------------------------------------------------------
+r148 | laudatra@UTORONTO.CA | 2016-06-26 21:35:43 -0400 (Sun, 26 Jun 2016) | 2 lines
+
+added a few test cases for the Echo class
+
+------------------------------------------------------------------------
+r147 | zhan2400@UTORONTO.CA | 2016-06-26 21:35:27 -0400 (Sun, 26 Jun 2016) | 1 line
+
+added test cases for cat class
+------------------------------------------------------------------------
+r146 | zhan2400@UTORONTO.CA | 2016-06-26 21:34:17 -0400 (Sun, 26 Jun 2016) | 1 line
+
+added Man test cases
+------------------------------------------------------------------------
+r145 | zhan2400@UTORONTO.CA | 2016-06-26 21:20:15 -0400 (Sun, 26 Jun 2016) | 2 lines
+
+added a method on Man.java
+
+------------------------------------------------------------------------
+r144 | kujason@UTORONTO.CA | 2016-06-26 18:05:59 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Tests run but are not correct now.
+------------------------------------------------------------------------
+r143 | kujason@UTORONTO.CA | 2016-06-26 17:24:12 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Added some test cases to FileTest and HistoryTest
+------------------------------------------------------------------------
+r142 | kujason@UTORONTO.CA | 2016-06-26 17:13:13 -0400 (Sun, 26 Jun 2016) | 1 line
+
+The edit method now properly appends to an existing file
+------------------------------------------------------------------------
+r141 | kujason@UTORONTO.CA | 2016-06-26 17:12:16 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Swapped > and >> functionality in the edit method as they were mixed up
+------------------------------------------------------------------------
+r140 | kujason@UTORONTO.CA | 2016-06-26 16:16:39 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Added support for parent
+------------------------------------------------------------------------
+r139 | kujason@UTORONTO.CA | 2016-06-26 16:16:12 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Added set parent for the root directory
+------------------------------------------------------------------------
+r138 | kujason@UTORONTO.CA | 2016-06-26 16:15:41 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Added support for .. in a path
+------------------------------------------------------------------------
+r137 | iyamuos2@UTORONTO.CA | 2016-06-26 15:56:44 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Fixed bugs in History, Shell and Echo that didnt print out history, didnt create the  new file name well
+------------------------------------------------------------------------
+r136 | zhan2400@UTORONTO.CA | 2016-06-26 15:42:23 -0400 (Sun, 26 Jun 2016) | 1 line
+
+fixed a typo on JShell.java
+------------------------------------------------------------------------
+r135 | kujason@UTORONTO.CA | 2016-06-26 14:46:19 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Implemented popd and pushd commands
+------------------------------------------------------------------------
+r134 | laudatra@UTORONTO.CA | 2016-06-26 14:20:16 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Updated the import statements to access the driver package
+------------------------------------------------------------------------
+r133 | laudatra@UTORONTO.CA | 2016-06-26 14:20:01 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Updated the import statements to access the driver package
+------------------------------------------------------------------------
+r132 | laudatra@UTORONTO.CA | 2016-06-26 14:19:45 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Updated the import statements to access the driver package
+------------------------------------------------------------------------
+r131 | kujason@UTORONTO.CA | 2016-06-26 14:02:12 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Fixed bug where ls on a file did not work
+------------------------------------------------------------------------
+r130 | iyamuos2@UTORONTO.CA | 2016-06-26 13:49:56 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Fixed bugs in Echo and interpreter that didn't process the History command well, and didn't add the file to its directory
+------------------------------------------------------------------------
+r129 | kujason@UTORONTO.CA | 2016-06-26 13:44:01 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Changed cd to support .. and also created Shell's directoryStack objects
+------------------------------------------------------------------------
+r128 | kujason@UTORONTO.CA | 2016-06-26 13:20:18 -0400 (Sun, 26 Jun 2016) | 1 line
+
+My dailyscrum log. For some reason the file did not properly commit last night.
+------------------------------------------------------------------------
+r127 | kujason@UTORONTO.CA | 2016-06-26 02:07:56 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Fixed bugs in Directory class. Implemented fullPath support in Shell. Cd command works as intended now and mkdir known bugs are fixed
+------------------------------------------------------------------------
+r126 | laudatra@UTORONTO.CA | 2016-06-26 01:06:47 -0400 (Sun, 26 Jun 2016) | 1 line
+
+added my scrum meeting file for June 25
+------------------------------------------------------------------------
+r125 | kujason@UTORONTO.CA | 2016-06-26 00:25:51 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Restored code and added a getter method
+------------------------------------------------------------------------
+r124 | laudatra@UTORONTO.CA | 2016-06-26 00:24:53 -0400 (Sun, 26 Jun 2016) | 1 line
+
+fixed double constructor error
+------------------------------------------------------------------------
+r123 | iyamuos2@UTORONTO.CA | 2016-06-26 00:18:22 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Completed the daily scrum for 25th
+------------------------------------------------------------------------
+r122 | kujason@UTORONTO.CA | 2016-06-26 00:15:52 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Ls command now works as intended.
+------------------------------------------------------------------------
+r121 | laudatra@UTORONTO.CA | 2016-06-26 00:05:00 -0400 (Sun, 26 Jun 2016) | 1 line
+
+added Javadoc to the directoryStack class
+------------------------------------------------------------------------
+r120 | laudatra@UTORONTO.CA | 2016-06-25 23:55:55 -0400 (Sat, 25 Jun 2016) | 1 line
+
+Implemented algorithm to check if the requested directory already exists
+------------------------------------------------------------------------
+r119 | kujason@UTORONTO.CA | 2016-06-25 23:42:04 -0400 (Sat, 25 Jun 2016) | 1 line
+
+Completed mkdir command
+------------------------------------------------------------------------
+r118 | zhan2400@UTORONTO.CA | 2016-06-25 23:38:21 -0400 (Sat, 25 Jun 2016) | 1 line
+
+Added a method to Directory.java to check if a directory with the same name exists already as a child
+------------------------------------------------------------------------
+r117 | laudatra@UTORONTO.CA | 2016-06-25 22:02:10 -0400 (Sat, 25 Jun 2016) | 1 line
+
+added getters and setters toprivate fields in the History class
+------------------------------------------------------------------------
+r116 | zhan2400@UTORONTO.CA | 2016-06-25 22:00:54 -0400 (Sat, 25 Jun 2016) | 1 line
+
+added getter method for all the private instance variables under the File class
+------------------------------------------------------------------------
+r115 | zhan2400@UTORONTO.CA | 2016-06-25 21:39:50 -0400 (Sat, 25 Jun 2016) | 1 line
+
+added Interpreter instance variable to the Shell class
+------------------------------------------------------------------------
+r114 | laudatra@UTORONTO.CA | 2016-06-25 21:38:28 -0400 (Sat, 25 Jun 2016) | 1 line
+
+removed manual class references from Shell class.
+------------------------------------------------------------------------
+r113 | zhan2400@UTORONTO.CA | 2016-06-25 21:26:11 -0400 (Sat, 25 Jun 2016) | 1 line
+
+removed useless instance references under Shell class
+------------------------------------------------------------------------
+r112 | zhan2400@UTORONTO.CA | 2016-06-25 21:23:25 -0400 (Sat, 25 Jun 2016) | 1 line
+
+deleted Manual.java
+------------------------------------------------------------------------
+r111 | kujason@UTORONTO.CA | 2016-06-25 21:06:26 -0400 (Sat, 25 Jun 2016) | 1 line
+
+Completed Ls command, directory also now returns Strings instead of ArrayList for printAllChildren method. PWD works as well as Shell now has a fullPath instance variable storing the string of the absolute path of the current directory
+------------------------------------------------------------------------
+r110 | zhan2400@UTORONTO.CA | 2016-06-25 20:43:00 -0400 (Sat, 25 Jun 2016) | 1 line
+
+added daily Scrum meeting
+------------------------------------------------------------------------
+r109 | iyamuos2@UTORONTO.CA | 2016-06-25 18:12:36 -0400 (Sat, 25 Jun 2016) | 1 line
+
+finished aligning the execute methods in the commands with the new hashmap execute call.
+------------------------------------------------------------------------
+r108 | kujason@UTORONTO.CA | 2016-06-25 15:01:37 -0400 (Sat, 25 Jun 2016) | 1 line
+
+Changed getHistory methods to return type String instead of an ArrayList
+------------------------------------------------------------------------
+r107 | iyamuos2@UTORONTO.CA | 2016-06-25 14:49:58 -0400 (Sat, 25 Jun 2016) | 1 line
+
+Started aligning the command classes with the new design that uses the hashtable, and thus makes general calls to the command classes in Shell.
+------------------------------------------------------------------------
+r106 | kujason@UTORONTO.CA | 2016-06-25 14:27:31 -0400 (Sat, 25 Jun 2016) | 1 line
+
+Changed getDocumentation method to return a String instead of an ArrayList
+------------------------------------------------------------------------
+r105 | laudatra@UTORONTO.CA | 2016-06-25 05:50:51 -0400 (Sat, 25 Jun 2016) | 1 line
+
+added my test cases for the Interpreter class
+------------------------------------------------------------------------
+r104 | zhan2400@UTORONTO.CA | 2016-06-25 05:27:50 -0400 (Sat, 25 Jun 2016) | 1 line
+
+added InterpreterTest with 2 test cases
+------------------------------------------------------------------------
+r103 | zhan2400@UTORONTO.CA | 2016-06-25 04:06:44 -0400 (Sat, 25 Jun 2016) | 1 line
+
+added 3 testcases for History class. They are testGetAllHistory, testGetPartialHistory, testAddEntry
+------------------------------------------------------------------------
+r102 | laudatra@UTORONTO.CA | 2016-06-25 03:56:08 -0400 (Sat, 25 Jun 2016) | 1 line
+
+added my test cases for the History class constructor
+------------------------------------------------------------------------
+r101 | zhan2400@UTORONTO.CA | 2016-06-25 03:29:47 -0400 (Sat, 25 Jun 2016) | 1 line
+
+fixed a typo
+------------------------------------------------------------------------
+r100 | laudatra@UTORONTO.CA | 2016-06-25 03:28:41 -0400 (Sat, 25 Jun 2016) | 1 line
+
+added my test cases for the File class
+------------------------------------------------------------------------
+r99 | zhan2400@UTORONTO.CA | 2016-06-25 03:23:31 -0400 (Sat, 25 Jun 2016) | 1 line
+
+added test cases for File class
+------------------------------------------------------------------------
+r98 | kujason@UTORONTO.CA | 2016-06-24 22:34:41 -0400 (Fri, 24 Jun 2016) | 1 line
+
+Added JavaDoc for commands I am responsible for
+------------------------------------------------------------------------
+r97 | kujason@UTORONTO.CA | 2016-06-24 22:13:39 -0400 (Fri, 24 Jun 2016) | 1 line
+
+Fixed a minor bug in Interpreter to satisfy return type. Also made Directory work as intended, no more errors in the class as we know of.
+------------------------------------------------------------------------
+r96 | kujason@UTORONTO.CA | 2016-06-24 19:41:27 -0400 (Fri, 24 Jun 2016) | 1 line
+
+Changed Directory,History, and Manual to accomodate returning a string rather than printing it. Interpreter still needs to have this feature implemented.
+------------------------------------------------------------------------
+r95 | iyamuos2@UTORONTO.CA | 2016-06-24 02:42:51 -0400 (Fri, 24 Jun 2016) | 1 line
+
+Implemented the new design for the echo and cat commands, to support SRP, while removing the responsibility from File.
+------------------------------------------------------------------------
+r94 | zhan2400@UTORONTO.CA | 2016-06-23 02:41:26 -0400 (Thu, 23 Jun 2016) | 1 line
+
+added my name on the Jshell.java
+------------------------------------------------------------------------
+r93 | iyamuos2@UTORONTO.CA | 2016-06-23 02:37:57 -0400 (Thu, 23 Jun 2016) | 1 line
+
+Added new class files to support SRP and HashTable design. 
+------------------------------------------------------------------------
+r92 | iyamuos2@UTORONTO.CA | 2016-06-22 23:53:08 -0400 (Wed, 22 Jun 2016) | 1 line
+
+completed daily scrum for June 22nd
+------------------------------------------------------------------------
+r91 | laudatra@UTORONTO.CA | 2016-06-22 23:46:25 -0400 (Wed, 22 Jun 2016) | 1 line
+
+added the first scrum meeting file for Sprint 3 on June 22nd.
+------------------------------------------------------------------------
+r90 | zhan2400@UTORONTO.CA | 2016-06-22 23:43:14 -0400 (Wed, 22 Jun 2016) | 1 line
+
+commited my new scrum meeting with a proper file name
+------------------------------------------------------------------------
+r89 | zhan2400@UTORONTO.CA | 2016-06-22 23:39:03 -0400 (Wed, 22 Jun 2016) | 1 line
+
+delete a file with wrong title
+------------------------------------------------------------------------
+r88 | zhan2400@UTORONTO.CA | 2016-06-22 23:25:44 -0400 (Wed, 22 Jun 2016) | 1 line
+
+added scrum meeting 3
+------------------------------------------------------------------------
+r87 | kujason@UTORONTO.CA | 2016-06-22 23:25:31 -0400 (Wed, 22 Jun 2016) | 1 line
+
+My dailyscrum file
+------------------------------------------------------------------------
+r86 | iyamuos2@UTORONTO.CA | 2016-06-22 14:29:02 -0400 (Wed, 22 Jun 2016) | 1 line
+
+Fixed a bug with the call to the man command.
+------------------------------------------------------------------------
+r85 | kujason@UTORONTO.CA | 2016-06-22 14:02:22 -0400 (Wed, 22 Jun 2016) | 1 line
+
+Fixed errors in file.java. Also correctly implemented directoryStack with Shell.
+------------------------------------------------------------------------
+r84 | laudatra@UTORONTO.CA | 2016-06-22 03:28:01 -0400 (Wed, 22 Jun 2016) | 1 line
+
+added a few command calls inthe routeInformation method in the Shell class.
+------------------------------------------------------------------------
+r83 | kujason@UTORONTO.CA | 2016-06-21 23:07:26 -0400 (Tue, 21 Jun 2016) | 1 line
+
+Updated directory to work with file
+------------------------------------------------------------------------
+r82 | iyamuos2@UTORONTO.CA | 2016-06-21 00:01:33 -0400 (Tue, 21 Jun 2016) | 1 line
+
+Uploaded spirnt for the last few days.
+------------------------------------------------------------------------
+r81 | iyamuos2@UTORONTO.CA | 2016-06-20 19:57:43 -0400 (Mon, 20 Jun 2016) | 1 line
+
+Redesigned and implemented the File class to suit overall design better
+------------------------------------------------------------------------
+r80 | iyamuos2@UTORONTO.CA | 2016-06-19 23:28:36 -0400 (Sun, 19 Jun 2016) | 1 line
+
+Completed the daily scurm for June 19th.
+------------------------------------------------------------------------
+r79 | kujason@UTORONTO.CA | 2016-06-19 22:21:57 -0400 (Sun, 19 Jun 2016) | 1 line
+
+Commited my dailyscrum
+------------------------------------------------------------------------
+r78 | zhan2400@UTORONTO.CA | 2016-06-19 19:29:02 -0400 (Sun, 19 Jun 2016) | 1 line
+
+edited my daily scrum
+------------------------------------------------------------------------
+r77 | zhan2400@UTORONTO.CA | 2016-06-19 18:46:57 -0400 (Sun, 19 Jun 2016) | 1 line
+
+added a method to retrieve a file given a path
+------------------------------------------------------------------------
+r76 | zhan2400@UTORONTO.CA | 2016-06-19 18:23:25 -0400 (Sun, 19 Jun 2016) | 1 line
+
+added daily Scrum on the repository
+------------------------------------------------------------------------
+r75 | laudatra@UTORONTO.CA | 2016-06-19 18:11:43 -0400 (Sun, 19 Jun 2016) | 1 line
+
+added my daily scrum meeting to the repository for June 19th of Sprint 2.
+------------------------------------------------------------------------
+r74 | laudatra@UTORONTO.CA | 2016-06-19 15:20:07 -0400 (Sun, 19 Jun 2016) | 1 line
+
+Fixed bug in isChild and getPathDirectory, and file formatting errors
+------------------------------------------------------------------------
+r73 | laudatra@UTORONTO.CA | 2016-06-19 15:07:43 -0400 (Sun, 19 Jun 2016) | 1 line
+
+Fixed bug in isChild and getPathDirectory
+------------------------------------------------------------------------
+r72 | kujason@UTORONTO.CA | 2016-06-19 02:19:09 -0400 (Sun, 19 Jun 2016) | 1 line
+
+Fixed error where history printed the same index number for history number
+------------------------------------------------------------------------
+r71 | iyamuos2@UTORONTO.CA | 2016-06-19 02:17:35 -0400 (Sun, 19 Jun 2016) | 1 line
+
+Fixed the previous bug in the wrong place. 
+------------------------------------------------------------------------
+r70 | kujason@UTORONTO.CA | 2016-06-19 02:07:39 -0400 (Sun, 19 Jun 2016) | 1 line
+
+Added the new directory class that uses ArrayList instead of a Tree. Also implemented Shell to work with the new class and some commands like pwd and history.
+------------------------------------------------------------------------
+r69 | iyamuos2@UTORONTO.CA | 2016-06-19 02:05:52 -0400 (Sun, 19 Jun 2016) | 1 line
+
+fixed a tiny bug where commands stayed on the interpreted list instead of being cleared off 
+------------------------------------------------------------------------
+r68 | laudatra@UTORONTO.CA | 2016-06-18 19:23:22 -0400 (Sat, 18 Jun 2016) | 1 line
+
+fixed some errors on the Directory class file i.e. (identical constructors)
+------------------------------------------------------------------------
+r67 | zhan2400@UTORONTO.CA | 2016-06-18 18:52:42 -0400 (Sat, 18 Jun 2016) | 1 line
+
+finished the Directory class constructor methods and get_children and add_children methods under the Directory class. I also completed the check path existence methods. They are path_existence and relativePath_existence methods.
+------------------------------------------------------------------------
+r66 | laudatra@UTORONTO.CA | 2016-06-18 18:36:41 -0400 (Sat, 18 Jun 2016) | 1 line
+
+added the directoryStack.java class to repository
+------------------------------------------------------------------------
+r65 | laudatra@UTORONTO.CA | 2016-06-18 18:11:32 -0400 (Sat, 18 Jun 2016) | 1 line
+
+added the CRC card for the directoryStack class.
+------------------------------------------------------------------------
+r64 | kujason@UTORONTO.CA | 2016-06-17 16:05:48 -0400 (Fri, 17 Jun 2016) | 1 line
+
+Manual class created and Shell encorporates the manual class now.
+------------------------------------------------------------------------
+r63 | iyamuos2@UTORONTO.CA | 2016-06-16 23:32:52 -0400 (Thu, 16 Jun 2016) | 1 line
+
+Finished Daily scrum for June 16th.
+------------------------------------------------------------------------
+r62 | kujason@UTORONTO.CA | 2016-06-16 22:51:16 -0400 (Thu, 16 Jun 2016) | 1 line
+
+Remove the old file with wrong sprint #
+------------------------------------------------------------------------
+r61 | kujason@UTORONTO.CA | 2016-06-16 22:42:05 -0400 (Thu, 16 Jun 2016) | 1 line
+
+Fixed the wrong name of sprint for daily scrum.
+------------------------------------------------------------------------
+r60 | zhan2400@UTORONTO.CA | 2016-06-16 19:44:46 -0400 (Thu, 16 Jun 2016) | 1 line
+
+commited my DailyScrumMeeting
+------------------------------------------------------------------------
+r59 | kujason@UTORONTO.CA | 2016-06-16 18:47:52 -0400 (Thu, 16 Jun 2016) | 1 line
+
+Commited my daily scrum for June 16
+------------------------------------------------------------------------
+r58 | kujason@UTORONTO.CA | 2016-06-16 16:58:37 -0400 (Thu, 16 Jun 2016) | 1 line
+
+Fixed a bug in Shell where exit command was recognized as invalid.
+------------------------------------------------------------------------
+r57 | laudatra@UTORONTO.CA | 2016-06-16 03:41:45 -0400 (Thu, 16 Jun 2016) | 1 line
+
+added my second sprint 2 scrum meeting file for June 16th.
+------------------------------------------------------------------------
+r56 | iyamuos2@UTORONTO.CA | 2016-06-16 03:16:32 -0400 (Thu, 16 Jun 2016) | 1 line
+
+Stared basic code for the class. Made the constructor, the method to set the current Directory, 
+------------------------------------------------------------------------
+r55 | kujason@UTORONTO.CA | 2016-06-15 21:01:57 -0400 (Wed, 15 Jun 2016) | 2 lines
+
+Removed the following CRCCards as they are not part of the design anymore: File-Manager, File-Reader, and Writer
+
+------------------------------------------------------------------------
+r54 | iyamuos2@UTORONTO.CA | 2016-06-15 19:04:29 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Fixed bugs in Interpreter class, changed implementation from a while loop to an inbuilt split function
+------------------------------------------------------------------------
+r53 | kujason@UTORONTO.CA | 2016-06-15 13:33:08 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Changed Shell to implement Interpreter class whenever a command is retrieved
+------------------------------------------------------------------------
+r52 | iyamuos2@UTORONTO.CA | 2016-06-15 00:56:39 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Changed the exception to an error message, and removed the exception class.
+------------------------------------------------------------------------
+r51 | laudatra@UTORONTO.CA | 2016-06-15 00:29:35 -0400 (Wed, 15 Jun 2016) | 1 line
+
+added my method implementations and documentation sections of the File class
+------------------------------------------------------------------------
+r50 | zhan2400@UTORONTO.CA | 2016-06-15 00:22:04 -0400 (Wed, 15 Jun 2016) | 1 line
+
+created a file class and finished the constructor method and file_creater method including the comment
+------------------------------------------------------------------------
+r49 | iyamuos2@UTORONTO.CA | 2016-06-14 21:07:56 -0400 (Tue, 14 Jun 2016) | 1 line
+
+Completed Sprint Backlog 2
+------------------------------------------------------------------------
+r48 | laudatra@UTORONTO.CA | 2016-06-14 03:50:31 -0400 (Tue, 14 Jun 2016) | 1 line
+
+added the CRC card for the File class after much deliberation on its true use for this assignment.
+------------------------------------------------------------------------
+r47 | zhan2400@UTORONTO.CA | 2016-06-14 03:35:49 -0400 (Tue, 14 Jun 2016) | 1 line
+
+edited Directory class crc Card
+------------------------------------------------------------------------
+r46 | laudatra@UTORONTO.CA | 2016-06-14 03:08:52 -0400 (Tue, 14 Jun 2016) | 1 line
+
+made only one small change to the stuck-on section of the scrum meeting .txt file for June 13th.
+------------------------------------------------------------------------
+r45 | laudatra@UTORONTO.CA | 2016-06-14 03:02:17 -0400 (Tue, 14 Jun 2016) | 1 line
+
+added the second scrummeeting file for Radu Laudat.
+------------------------------------------------------------------------
+r44 | laudatra@UTORONTO.CA | 2016-06-14 01:57:48 -0400 (Tue, 14 Jun 2016) | 1 line
+
+added additional collaborator for the shell class
+------------------------------------------------------------------------
+r43 | zhan2400@UTORONTO.CA | 2016-06-14 00:16:11 -0400 (Tue, 14 Jun 2016) | 1 line
+
+my friend didn't bring his laptop battery so he tried to submit his daily scrum on my laptop. I deleted his file because he didn't notice that he failed to change the user name even if he did svn checkout again on my laptop.
+------------------------------------------------------------------------
+r42 | zhan2400@UTORONTO.CA | 2016-06-14 00:00:52 -0400 (Tue, 14 Jun 2016) | 1 line
+
+added Sprint file
+------------------------------------------------------------------------
+r41 | zhan2400@UTORONTO.CA | 2016-06-13 23:52:33 -0400 (Mon, 13 Jun 2016) | 1 line
+
+added Sprint2 file
+------------------------------------------------------------------------
+r40 | iyamuos2@UTORONTO.CA | 2016-06-13 23:34:31 -0400 (Mon, 13 Jun 2016) | 1 line
+
+Completed daily scrum meeting for June 13th.
+------------------------------------------------------------------------
+r39 | iyamuos2@UTORONTO.CA | 2016-06-13 22:49:12 -0400 (Mon, 13 Jun 2016) | 1 line
+
+Completed Interpreter class, had to re-add because file was deleted from repository accidentally.
+------------------------------------------------------------------------
+r38 | kujason@UTORONTO.CA | 2016-06-13 22:37:59 -0400 (Mon, 13 Jun 2016) | 1 line
+
+Fixed the problem where the Shell class cannot receive more than one command consecutively
+------------------------------------------------------------------------
+r37 | kujason@UTORONTO.CA | 2016-06-13 22:22:28 -0400 (Mon, 13 Jun 2016) | 1 line
+
+Committed my second daily scrum meeting information for June 13
+------------------------------------------------------------------------
+r36 | kujason@UTORONTO.CA | 2016-06-13 22:03:09 -0400 (Mon, 13 Jun 2016) | 1 line
+
+Updated Shell to encorporate and store each command/input given by the user via a History object. Shell still does not work on more than one input given by the user.
+------------------------------------------------------------------------
+r35 | kujason@UTORONTO.CA | 2016-06-13 22:02:32 -0400 (Mon, 13 Jun 2016) | 1 line
+
+Created the history class that encorporates the history class outlined in the CRCCard.
+------------------------------------------------------------------------
+r34 | kujason@UTORONTO.CA | 2016-06-13 21:49:41 -0400 (Mon, 13 Jun 2016) | 1 line
+
+Removing the typo in daily scrum file
+------------------------------------------------------------------------
+r33 | kujason@UTORONTO.CA | 2016-06-13 20:27:02 -0400 (Mon, 13 Jun 2016) | 1 line
+
+Removed typo in the file name and replaced with the correct name
+------------------------------------------------------------------------
+r32 | laudatra@UTORONTO.CA | 2016-06-13 01:20:11 -0400 (Mon, 13 Jun 2016) | 1 line
+
+added my name to the JShell.java honor code
+------------------------------------------------------------------------
+r31 | laudatra@UTORONTO.CA | 2016-06-12 19:36:37 -0400 (Sun, 12 Jun 2016) | 1 line
+
+fixed a minor formatting error in the CRC card for the History class.
+------------------------------------------------------------------------
+r30 | zhan2400@UTORONTO.CA | 2016-06-12 19:09:06 -0400 (Sun, 12 Jun 2016) | 1 line
+
+adjusted the format
+------------------------------------------------------------------------
+r29 | laudatra@UTORONTO.CA | 2016-06-12 19:07:04 -0400 (Sun, 12 Jun 2016) | 1 line
+
+added the History class CRC Card
+------------------------------------------------------------------------
+r28 | zhan2400@UTORONTO.CA | 2016-06-12 18:39:48 -0400 (Sun, 12 Jun 2016) | 1 line
+
+edited a typo on Manual.txt
+------------------------------------------------------------------------
+r27 | zhan2400@UTORONTO.CA | 2016-06-12 17:50:22 -0400 (Sun, 12 Jun 2016) | 1 line
+
+edited the collaborators on Manual.txt file
+------------------------------------------------------------------------
+r26 | zhan2400@UTORONTO.CA | 2016-06-12 17:47:11 -0400 (Sun, 12 Jun 2016) | 1 line
+
+edited the responsibility and collaborators under Manual.txt file
+------------------------------------------------------------------------
+r25 | zhan2400@UTORONTO.CA | 2016-06-12 17:39:12 -0400 (Sun, 12 Jun 2016) | 1 line
+
+Added Manual.txt crcCards
+------------------------------------------------------------------------
+r24 | zhan2400@UTORONTO.CA | 2016-06-12 17:22:56 -0400 (Sun, 12 Jun 2016) | 1 line
+
+updated the collaborators under Shell.txt file
+------------------------------------------------------------------------
+r23 | iyamuos2@UTORONTO.CA | 2016-06-12 17:15:01 -0400 (Sun, 12 Jun 2016) | 1 line
+
+recommitting changes to CRC cards that reflect reassignment of duties from interpreter to shell, also added Directory class as a replacement for Navigator class
+------------------------------------------------------------------------
+r22 | iyamuos2@UTORONTO.CA | 2016-06-11 23:12:18 -0400 (Sat, 11 Jun 2016) | 1 line
+
+Forgot to make changes in the previous revision to FileReader class, that has been done now.
+------------------------------------------------------------------------
+r21 | iyamuos2@UTORONTO.CA | 2016-06-11 23:09:53 -0400 (Sat, 11 Jun 2016) | 1 line
+
+Updated the CRC cards design to contain a Directory Class instead of a Navigator class, and shifted some directory responsibilities formerlly assigned to File Manager to the newly made Directory class now.
+------------------------------------------------------------------------
+r20 | iyamuos2@UTORONTO.CA | 2016-06-11 22:52:34 -0400 (Sat, 11 Jun 2016) | 1 line
+
+Due to new changes in Assignment 2 from A1, this class is no longer needed.
+------------------------------------------------------------------------
+r19 | iyamuos2@UTORONTO.CA | 2016-06-11 22:46:09 -0400 (Sat, 11 Jun 2016) | 1 line
+
+Completed the first Sprint Backlog formally although tasks were handed out informally after discussion a few hours prior to the completion of this backlog document itself.
+------------------------------------------------------------------------
+r18 | kujason@UTORONTO.CA | 2016-06-11 18:53:13 -0400 (Sat, 11 Jun 2016) | 1 line
+
+Added the Shell class (Shell.java) and changed the JShell.java to accomodate and call on the Shell class. Currently the Shell class only supports one command, "exit" until other classes are implemented.
+------------------------------------------------------------------------
+r17 | kujason@UTORONTO.CA | 2016-06-10 20:09:43 -0400 (Fri, 10 Jun 2016) | 1 line
+
+Commited my part of the daily scrum information
+------------------------------------------------------------------------
+r16 | iyamuos2@UTORONTO.CA | 2016-06-10 18:49:55 -0400 (Fri, 10 Jun 2016) | 1 line
+
+inished first saily scrum documentation, about design and first implementation.
+------------------------------------------------------------------------
+r15 | zhan2400@UTORONTO.CA | 2016-06-10 17:55:10 -0400 (Fri, 10 Jun 2016) | 1 line
+
+added first Sprint
+------------------------------------------------------------------------
+r14 | laudatra@UTORONTO.CA | 2016-06-10 17:45:57 -0400 (Fri, 10 Jun 2016) | 1 line
+
+added the sprint1 scrum meeting file for Radu Laudat, UTORid: laudatra, Student#: 1002394063
+------------------------------------------------------------------------
+r13 | laudatra@UTORONTO.CA | 2016-06-10 16:12:27 -0400 (Fri, 10 Jun 2016) | 1 line
+
+added all of our CRC cardsfor the current design element of our project
+------------------------------------------------------------------------
+r12 | iyamuos2@UTORONTO.CA | 2016-06-07 23:55:28 -0400 (Tue, 07 Jun 2016) | 1 line
+
+fixed a few typos.
+------------------------------------------------------------------------
+r11 | iyamuos2@UTORONTO.CA | 2016-06-07 23:48:47 -0400 (Tue, 07 Jun 2016) | 1 line
+
+Added backlog items for exit, popd, and history [number]
+------------------------------------------------------------------------
+r10 | laudatra@UTORONTO.CA | 2016-06-07 22:41:44 -0400 (Tue, 07 Jun 2016) | 1 line
+
+added 1 quarter of the total project responsibilities to the product backlog.
+------------------------------------------------------------------------
+r9 | kujason@UTORONTO.CA | 2016-06-07 22:12:08 -0400 (Tue, 07 Jun 2016) | 1 line
+
+Completed the productBacklogFor2A for the following commands: ls, cat, and mkdir
+------------------------------------------------------------------------
+r8 | zhan2400@UTORONTO.CA | 2016-06-07 21:55:22 -0400 (Tue, 07 Jun 2016) | 1 line
+
+created a new file called productBacklogFor2A.txt and completed one quarter of product backlog.
+------------------------------------------------------------------------
+r7 | attarwal@UTORONTO.CA | 2016-06-05 18:56:48 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r6 | attarwal@UTORONTO.CA | 2016-06-05 18:56:47 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r5 | attarwal@UTORONTO.CA | 2016-06-05 18:56:46 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r4 | attarwal@UTORONTO.CA | 2016-06-05 18:56:46 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r3 | attarwal@UTORONTO.CA | 2016-06-05 18:56:45 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r2 | attarwal@UTORONTO.CA | 2016-06-05 18:56:44 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r1 | markus | 2016-06-05 18:21:17 -0400 (Sun, 05 Jun 2016) | 1 line
+
+
+------------------------------------------------------------------------
+
+
+
+Part 3) +++Work Distribution of Team Members+++
++++ON ALL SOURCE FILES+++
+  22 attarwal@U
+ 901 iyamuos2@U
+1147 kujason@UT
+ 482 laudatra@U
+ 648 zhan2400@U
++++ON CRC CARDS+++
+   9 attarwal@U
+   9 iyamuos2@U
+ 213 kujason@UT
+  47 laudatra@U
+   4 zhan2400@U
++++ON DAILYSCRUMMEETINGS+++
+  33 attarwal@U
+  77 iyamuos2@U
+  71 kujason@UT
+  91 laudatra@U
+  81 zhan2400@U
++++ON PRODUCT BACKLOG +++
+  11 attarwal@U
+  27 iyamuos2@U
+   4 kujason@UT
+   4 laudatra@U
+   1 zhan2400@U
++++ON SPRINTS+++
+  68 attarwal@U
+ 131 iyamuos2@U
+3595
+Part 4) SVN Commits
+
+
+On Sprints
+   1  attarwal@UTORONTO.CA 
+   3  iyamuos2@UTORONTO.CA 
+
+
+On CRC Cards
+   1  attarwal@UTORONTO.CA 
+   4  iyamuos2@UTORONTO.CA 
+   3  kujason@UTORONTO.CA 
+   6  laudatra@UTORONTO.CA 
+   7  zhan2400@UTORONTO.CA 
+
+
+On DailyScrumMeetings
+   1  attarwal@UTORONTO.CA 
+   6  iyamuos2@UTORONTO.CA 
+  10  kujason@UTORONTO.CA 
+   7  laudatra@UTORONTO.CA 
+  11  zhan2400@UTORONTO.CA 
+
+
+On ProductBacklog
+   1  attarwal@UTORONTO.CA 
+   2  iyamuos2@UTORONTO.CA 
+   1  kujason@UTORONTO.CA 
+   1  laudatra@UTORONTO.CA 
+   1  zhan2400@UTORONTO.CA 
+
+
+On source
+   1  attarwal@UTORONTO.CA 
+  23  iyamuos2@UTORONTO.CA 
+  45  kujason@UTORONTO.CA 
+  45  laudatra@UTORONTO.CA 
+  38  zhan2400@UTORONTO.CA 

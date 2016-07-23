@@ -1,0 +1,10 @@
+What did I do last time?
+	- Finished planning the design of cp command
+	- Started planning the mv command a little bit
+
+What do I plan to do now?
+	- Update CRC cards for the cp and mv command
+	- Start implement the cp command
+
+Am I blocked on anything?
+	- No

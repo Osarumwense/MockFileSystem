@@ -1,0 +1,10 @@
+Class name: Popd
+Parent Classes: Command
+Subclasses:
+
+Responsibilities:
+* Get the latest directory on the stack and change directories into it
+Collaborators:
+* Shell
+* DirectoryStack
+* Command

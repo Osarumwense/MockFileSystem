@@ -1,0 +1,7 @@
+What did I do last time?
+	- Completed methods in directory needed for other commands
+What do I plan to do now?
+	- Continue testing for LS -r and -R along with testing for Number class
+
+Am I blocked on anything?
+	- No

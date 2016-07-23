@@ -1,0 +1,18 @@
+Class name: Directory
+Parent Classes:
+Subclasses:
+
+Responsibilities:
+* Creates directories, which store files, when asked to by the user
+* Keeps track of the current directory and child directories
+* Keeps track of parent directory
+Collaborators:
+* Shell
+* File
+* Pushd
+* MakeDirectory
+* Ls
+* Echo
+* ChangeDirectory
+* Cat
+* Popd

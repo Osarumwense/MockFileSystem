@@ -1,0 +1,14 @@
+what did I word on last time?
+- I discussed and decided on the best design for the group to move forward with
+- I started on the more detailed implementation for the commands which have
+been assigned to me
+
+What do I plan to work on now?
+- intend to start writing code for the first command I have been assigned to
+work on, that is the exit command. I.E I need to make an exit button for the
+shell window
+- I also intend on writing exhasutive test cases for the command
+
+What am I stuck on currentlly
+- I am having trouble coming up with a way to design the File class in a manner
+which does not actually create a new file stored on the computer.

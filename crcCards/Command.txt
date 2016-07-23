@@ -1,0 +1,18 @@
+Class name: Command
+Parent Classes: 
+Subclasses: Cat, Cd, Echo, History, Ls, Man, Mkdir, Popd, Pushd, Pwd
+
+Responsibilities:
+* An interface for execute() command in the proper command subclass
+Collaborators:
+* Shell
+* Cat
+* ChangeDirectory
+* Echo
+* History
+* Ls
+* Man
+* MakeDirectory
+* Popd
+* Pushd
+* PrintWorkingDirectory

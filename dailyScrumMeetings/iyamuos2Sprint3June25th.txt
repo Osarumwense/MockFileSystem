@@ -1,0 +1,12 @@
+What did I work on?
+- changed the design to use HastTable like the TA advised and we decided
+- Created a new class for each command and a general execute method
+- Created a superclass Command for each command to inherit from
+- Changed code in classes to return Strings to Shell rather than print output
+diretly
+
+What do I intend on doing?
+- I intend on testing some methods to see if they still work after the implementation
+
+What am I stuck on now?
+- nothing

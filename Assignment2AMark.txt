@@ -1,0 +1,122 @@
+==== A2 phase I marking ====
+
+Group number: 0302
+UTORID usernames of members: iyamuos2, kujason, laudatra, zhan2400
+TA: Akshay Nair <akshay.nair@mail.utoronto.ca>
+
+Total deductions: 5 (Grade: B-)
+Instructor bonus: +2
+Final deductions: 3 (Grade: B+)
+
+============================
+
+Your team's Phase II grade is based on this scale:
+
+    http://www.artsandscience.utoronto.ca/ofr/calendar/rules.htm#grading
+
+The way we graded is as follows: your team starts with an A+. When errors and
+problems are found, you will lose 0, 1, 2, or 3 letter steps, depending on the
+severity. As an example, if you lost two steps, your team would earn an A-:
+
+     A+ -> A
+     A -> A-
+
+==== Product and Sprint backlogs ==== [up to -6]
+
+Mark: 0
+
+Mark reductions: None
+
+Positive feedback:
+- SB/PB are well worded. I can see thoughtful delegation of tasks.
+- Instead of listing "days" the more common approach in PB is to list hours. (Did you really have that many days to do your assignment? Is each day supposed to be dedicated to one functional requirement?)
+
+==== Java Style ==== [up to -6]
+
+Mark: -1.5
+
+Mark reductions:
+- Classes are often not semantic. Instead of using a command for short forms of commands (such as "Cd") you should interpret what the command does (e.g. "ChangeDirectory") Also some classes do not have proper title case. (-0.5)
+- Please split up your classes into packages. (-0.5)
+- Some classes have inconsistent spacing (especially test classes) (-0.5)
+
+Positive feedback:
+- Good use of the automatic style checker.
+
+==== Design ==== [up to -6]
+
+Mark: -1
+
+Mark reductions:
+- There are some public instance variables (see directoryStack) (-0.5)
+
+- Some methods are questionable. (e.g. should File really handle Echo's syntax?) You need to separate the responsibilities more. (-0.5)
+
+Positive feedback:
+- Good use of composition, inheritance and encapsulation.
+
+- Good use of Hashtable for your command redirection, as you use interfaces to handle your command classes.
+
+- Good unified path handling mechanism in Directory.
+
+My comments and feedback (no mark reductions):
+- The use of Exception classes is well done. However often the point of custom Exception classes is to avoid having to specify detailed messages in the constructor. For example you could create InvalidCommandException with a constructor of only the command name. Then either the Exception class itself or an error handler class could translate these into readable error messages. This lets you avoid repeating detailed messages in the case of when the same Exception class is reused multiple times.
+
+==== Javadoc ==== [up to -3]
+
+Mark: -1
+
+Mark reductions:
+- You need to comment instance variables and their purposes. (-1)
+
+Positive feedback:
+- Overall well written Javadoc.
+
+==== Testing ==== [up to -6] 
+
+Mark: 0
+
+Positive feedback:
+- Overall very thorough testing. Very good use of Exceptions and @Before/@After tags.
+
+My comments and feedback (no mark reductions):
+- Some of your test cases are questionable. Why are many of them testing the constructor?
+
+==== Correctness ==== [up to -6]
+
+Mark: -1.5
+
+Mark reductions:
+- "popd", "history" and "pwd" require arguments in your code, when they should not need one (-0.5)
+
+Test cases failed (-0.25 * 4 = -1 total):
+1) Echoing and creating a new file given an absolute path.
+	mkdir newFolder
+	echo “Hello” > /newFolder/file.txt
+	cat /newFolder/file.txt
+	Result: It should create a file called file.txt inside newFolder with Hello as the contents.
+	Actual: cat command throws an error on absolute paths.
+
+2) Listing multiple files
+	ls file.txt . newFolder 
+	Result: It should print file.txt, the current directory contents and the contents of newFolder.
+	Actual: ls only accepts one argument.
+
+3) Cat with multiple arguments + whitespace:
+	echo “Bye” >> file2.txt
+	cat            file.txt         file2.txt
+	Result: It should print the contents of both files.
+	Actual: cat only prints the last argument.
+	
+4) Exit with whitespace
+               exit
+	Result: It should exit the program successfully and not throw an error.
+	Actual: Throws an error.
+
+Positive feedback:
+- You have very informative error messages. Well done.
+
+My comments and feedback (no mark reductions):
+- The exception is "echo" which does not have informative error messages. (Creating a file often just prints "l" to the console, and putting something like 'echo "" >> file > file2' does not return an error message)
+- "history -1" should also print an error message.
+

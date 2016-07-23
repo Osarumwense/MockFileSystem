@@ -1,0 +1,11 @@
+Class name: Curl 
+Parent Classes: Command
+Subclasses: N/A
+ 
+Responsibilities:
+* Retrieve the contents of a file at a given URL and add the respective file 
+to the current working directory.
+Collaborators:
+* Shell
+* File
+* Directory

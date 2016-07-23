@@ -1,0 +1,9 @@
+Class name: InvalidHistoryNumberException
+Parent Classes: Exception
+Subclasses:
+
+Responsibilities:
+* An exception for when an invalid history index is given
+Collaborators:
+* History
+* Command

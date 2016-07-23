@@ -1,0 +1,10 @@
+Class name: NoParentException
+Parent Classes: Exception
+Subclasses:
+
+Responsibilities:
+* An exception for when .. is entered but there is no parent directory
+  ie. when in home directory
+Collaborators:
+* Command
+* Cd

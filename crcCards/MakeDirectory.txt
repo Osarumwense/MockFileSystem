@@ -1,0 +1,8 @@
+Class name: Mkdir
+Parent Classes:
+Subclasses:
+
+Responsibilities:
+* Make directories given a path from Command class
+Collaborators:
+* Command

@@ -1,0 +1,12 @@
+What did I do last time?
+  - Added cp and mv to the commandtable in interpreter class
+  - Added setFileName method to the File class
+  - Modified mvChildFile and mvChildDirectory in directory class
+  - finished cp command
+
+What do I plan to do now?
+  - debug for cp and mv command
+  - Start unit test for cp and mv command
+  
+Am I blocked on anything?
+  - No, not right now. 

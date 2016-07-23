@@ -1,0 +1,10 @@
+What did I do last time?
+  - implemented test cases for the Interpreter, History and File classes.
+  - Made some changes to code found in the Mkdir class.
+
+What do I plan to do now?
+  - Finish the testing phase and any additional work required to get the 
+project in proper working order.
+
+Am I blocked on anything?
+  - No, not right now.

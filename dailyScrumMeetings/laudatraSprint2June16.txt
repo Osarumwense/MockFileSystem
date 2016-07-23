@@ -1,0 +1,19 @@
+What did I do last time? 
+  - Implemented the entire File class in collaboration with a member of the 
+team as it was a very large class with lots of class specific implementation 
+details involved.
+  - Created appropriate CRC cards for current implemented class design of File
+
+What do I plan to do now?
+  - After some design changes, my partner and I have to overhaul our 
+implementation of the File class, specifically the constructor method
+- Focus on sprint 2 tasks, such as working on the pushd command and the 
+mkdir command
+
+Am I blocked on anything?
+- At the moment, the entire team is discussing some details regarding 
+communication between the Interpreter, Shell and the File class. 
+- Until we come to a conclusive group decision regarding design such that
+File will accept certain parameter types, my partner and I who have been 
+assigned the same task in the sprint 2 backlog (implement File) cannot proceed
+with our task 

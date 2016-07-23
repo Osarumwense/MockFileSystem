@@ -1,0 +1,17 @@
+Class name: Shell
+Parent Classes:
+Subclasses:
+
+Responsibilities:
+* Start up when user runs the program
+* Shut off when user exits the program
+* Display interface where user interacts via commands
+* Show user's previous commands
+* Route raw user input to interpreter, where the command is parsed
+* Displays any status updates received from collaborators such as file contents
+* Route information from interpreter to command class for execution
+Collaborators:
+* Command
+* Interpreter
+* Directory
+

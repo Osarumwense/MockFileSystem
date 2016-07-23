@@ -1,0 +1,13 @@
+what did I work on last time?
+- I fixed bugs in the interpreter class,
+- Came up with a new way to invoke commands using HashTables with the TA and
+my group members
+
+What dp I plan to work on now?
+- I intend to implement the advice giving to our group by the TA during our
+demo.
+- I intend to help make seperate classes for command
+
+What am I stuck on currently?
+- I am not stuck on anythnig.
+

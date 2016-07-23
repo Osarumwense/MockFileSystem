@@ -1,0 +1,14 @@
+Class name: File
+Parent Classes:
+Subclasses:
+Responsibilities:
+* Communicate with other classes in order to display file contents once user 
+  file is retrieved, if the file exists in the current directory
+* Simulate a file, in which files can be created and typographically
+  modified, appended to in prior existences of the file, or entirely deleted from 
+  existence within that current directory.
+Collaborators:
+* Directory
+* Ls
+* Cat
+* Echo

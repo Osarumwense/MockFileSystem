@@ -1,0 +1,14 @@
+Class name: Ls
+Parent Classes: Command
+Subclasses:
+
+Responsibilities:
+* Display the contents of the current directory or a path if given by the
+  command class
+* Send Shell the information to display
+* Display all subdirectories if requested
+Collaborators:
+* Command
+* Shell
+* Directory
+* File

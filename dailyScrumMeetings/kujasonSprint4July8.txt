@@ -1,0 +1,8 @@
+What did I do last time?
+	- Updated the !number class crcCard
+What do I plan to do now?
+	- Start and complete the !number class and functionality
+	- Update CRC card for the ls class
+
+Am I blocked on anything?
+	- No

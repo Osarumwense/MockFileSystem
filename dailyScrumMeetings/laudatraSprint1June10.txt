@@ -1,0 +1,14 @@
+What did I do last time?
+    - worked on printing the current working directory that the user is in to
+     the console
+    - finalized the project design in collaboration with other team members  
+
+What do I plan to do now?
+    - wrap up printing the current working directory and starting writing 
+      tests and documentation for it 
+    - work on my sprint 2 tasks which are to complete the change directory 
+      command and write tests/documentation for it.   
+
+Am I blocked on anything?
+   - I currently need a way to access the name of the actual directory using
+     our design pattern, so essentially the getDirName method. 

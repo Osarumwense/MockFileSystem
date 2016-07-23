@@ -1,0 +1,12 @@
+What did I do last time?
+  - Updated CRC cards to have one for the new Curl class
+  - Brainstormed ideas for the design of the Curl class and researched how to 
+    read from a webpage in Java.
+
+What do I plan to do now?
+  - Begin implementing the Curl class.
+  - Iron out all the different cases of how the Curl command will work,
+    along with continue researching webpage reading in Java.
+
+Am I blocked on anything?
+  - No, not right now. 
